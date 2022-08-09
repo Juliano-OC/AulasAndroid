@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hollowlator</string>
+    <string name="type_your_name">Digite seu nome</string>
+    <string name="type_your_age">Digite sua idade</string>
+    <string name="see_result">Veja o resultado</string>
+    <string name="you_are">Você é</string>
+    <string name="freaked_out">surtado(a)</string>
+    <string name="message_name">Nome:</string>
+    <string name="message_age">Idade:</string>
+
+</resources>

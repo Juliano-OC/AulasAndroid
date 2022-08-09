@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">first_test</string>
+    <string name="button_calculator">Calculadora</string>
+    <string name="button_random">Aleatório</string>
+    <string name="button_about">Sobre</string>
+    <string name="insane_duo">DUO INSANO</string>
+    <string name="daninhoque">Daninhoque</string>
+    <string name="juliano">Juliano</string>
+    <string name="email_juliano">julianooliveiracorrea@gmail.com</string>
+    <string name="email_dani">daniokgamers@gmail.com</string>
+    <string name="string_add">Resultado soma: </string>
+    <string name="string_subtraction">Resultado subtração: </string>
+    <string name="string_division">Resultado divisão: </string>
+    <string name="string_multiplication">Resultado multiplicação: </string>
+    <string name="string_value1">Valor1: </string>
+    <string name="string_value2">Valor2: </string>
+    <string name="button_calculate">Calcular</string>
+    <string name="type_value1">Digite valor1</string>
+    <string name="type_value2">Digite valor2</string>
+    <string name="spinner_add">Somar</string>
+    <string name="spinner_subtract">Subtrair</string>
+    <string name="spinner_divide">Dividir</string>
+    <string name="spinner_multiply">Multiplicar</string>
+    <string name="spinner_all">Todos</string>
+    <string name="your_lucky_number_is">Seu número da sorte é: </string>
+
+    <string-array name="spinner_Calculator">
+        <item>Escolha a operação</item>
+        <item>Somar</item>
+        <item>Subtrair</item>
+        <item>Dividir</item>
+        <item>Multiplicar</item>
+        <item>Todos</item>
+    </string-array>
+</resources>

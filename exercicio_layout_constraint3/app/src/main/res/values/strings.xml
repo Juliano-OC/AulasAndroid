@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">exercicio_layout_constraint3</string>
+    <string name="red">RED</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="yellow">YELLOW</string>
+    <string name="row_one">Row one</string>
+    <string name="row_two">Row two</string>
+    <string name="row_three">Row three</string>
+    <string name="row_four">Row four</string>
+</resources>

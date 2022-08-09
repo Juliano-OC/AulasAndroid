@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">exercicio_serializable_ligacao_texto</string>
+    <string name="type_your_email">Type your email</string>
+    <string name="button_login">Login</string>
+    <string name="button_share">Share</string>
+    <string name="type_something">Type something</string>
+    <string name="type_a_phone">Type a phone</string>
+    <string name="button_call">Call</string>
+    <string name="toast_msg">toast msg test</string>
+</resources>

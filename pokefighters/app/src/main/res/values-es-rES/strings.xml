@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">pokefighters</string>
+    <!--    toast-->
+    <string name="toast_misdreavus">Misdreavus</string>
+    <string name="toast_mismagius">Mismagius</string>
+    <string name="toast_gastly">Gastly</string>
+    <string name="toast_haunter">Haunter</string>
+    <string name="toast_gengar">Gengar</string>
+    <string name="toast_abra">Abra</string>
+    <string name="toast_kadabra">Kadabra</string>
+    <string name="toast_alakazam">Alakazam</string>
+    <string name="toast_charmander">Charmander</string>
+    <string name="toast_charmeleon">Charmeleon</string>
+    <string name="toast_charizard">Charizard</string>
+    <string name="toast_megacharizard">Mega Charizard</string>
+
+    <string name="neutral_button">OK</string>
+
+    <!--    alert-->
+    <string name="alert_misdreavus">Lo que lo hace feliz es imitar las voces de las personas que lloran y asustar a todos. No se trata bien con personas que no se asustan fácilmente.</string>
+    <string name="alert_tittle_misdreavus">Misdreavus</string>
+    <string name="alert_mismagius">Temido por su ira y las maldiciones que propaga, este Pokémon también, por capricho, lanzará hechizos que ayudarán a las personas.</string>
+    <string name="alert_tittle_Mismagius">Mismagius</string>
+    <string name="alert_gastly">El gas venenoso comprende el 95% de su cuerpo. Se dice que el 5% restante está formado por las almas de los que murieron por el gas.</string>
+    <string name="alert_tittle_gastly">Gastly</string>
+    <string name="alert_haunter">Es peligroso salir solo en las noches cuando te sientes triste. Haunter te atrapará y no podrás volver a casa.</string>
+    <string name="alert_tittle_haunter">Haunter</string>
+    <string name="alert_gengar">Incluso su hogar no es seguro. Gengar acechará en cualquier rincón oscuro de una habitación que pueda encontrar y esperará la oportunidad de atrapar a su presa.</string>
+    <string name="alert_tittle_gengar">Gengar</string>
+    <string name="alert_abra">Puede leer las mentes de los demás y se teletransportará cuando se acerque el peligro. Debes despejar tu mente si quieres atraparlo.</string>
+    <string name="alert_tittle_abra">Abra</string>
+    <string name="alert_kadabra">Posee fuertes capacidades mentales, pero sus poderes psíquicos se reducen a la mitad cuando no está sosteniendo una cuchara de plata.</string>
+    <string name="alert_tittle_kadabra">Kadabra</string>
+    <string name="alert_alakazam">Alakazam usa sus poderes psíquicos para hacer las cucharas que lleva. Cada cuchara es una original que solo hay una en todo el mundo.</string>
+    <string name="alert_tittle_alakazam">Alakazam</string>
+    <string name="alert_charmander">La llama que arde en la punta de su cola es una indicación de sus emociones. La llama oscila cuando Charmander se está divirtiendo. Si el Pokémon se enfurece, la llama arde ferozmente.</string>
+    <string name="alert_tittle_charmander">Charmander</string>
+    <string name="alert_charmeleon">Charmeleon destruye sin piedad a sus enemigos con sus afiladas garras. Si se encuentra con un enemigo fuerte, se vuelve agresivo. En este estado excitado, la llama en la punta de su cola arde con un color blanco azulado.</string>
+    <string name="alert_tittle_charmeleon">Charmeleon</string>
+    <string name="alert_charizard">Charizard vuela por el cielo en busca de oponentes poderosos. Respira fuego de un calor tan grande que derrite cualquier cosa. Sin embargo, nunca vuelve su aliento feroz a ningún oponente más débil que él.</string>
+    <string name="alert_tittle_charizard">Charizard</string>
+    <string name="alert_megacharizard">Mega Charizard Y es la Mega Evolución de Charizard y evoluciona mediante el uso de una Mega Piedra, presentada oficialmente durante Pokémon Direct el 4 de septiembre de 2013. Durante la emisión de Pokémon Origins en Japón, se reveló que era exclusivo de Pokémon Y.</string>
+    <string name="alert_tittle_megacharizard">Mega Charizard</string>
+</resources>

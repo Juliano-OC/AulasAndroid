@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exercicio_enviar_dados</string>
+    <string name="type_url">Type a url</string>
+    <string name="browse_url">Browse</string>
+    <string name="type_your_name">Type your name</string>
+    <string name="button_login">Login</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">exercicio_spinner</string>
+    <string name="type_your_name">Digite seu nome</string>
+    <string name="button_confirm">Confirma</string>
+    <string name="user_name">Nome do usuário= </string>
+    <string name="user_gender">Genêro do usuário= </string>
+
+    <string-array name="spinner_gender">
+        <item>Escolha</item>
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+</resources>

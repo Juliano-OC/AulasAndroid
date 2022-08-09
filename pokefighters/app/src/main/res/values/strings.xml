@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">pokefighters</string>
+    <!--    toast-->
+    <string name="toast_misdreavus">Misdreavus</string>
+    <string name="toast_mismagius">Mismagius</string>
+    <string name="toast_gastly">Gastly</string>
+    <string name="toast_haunter">Haunter</string>
+    <string name="toast_gengar">Gengar</string>
+    <string name="toast_abra">Abra</string>
+    <string name="toast_kadabra">Kadabra</string>
+    <string name="toast_alakazam">Alakazam</string>
+    <string name="toast_charmander">Charmander</string>
+    <string name="toast_charmeleon">Charmeleon</string>
+    <string name="toast_charizard">Charizard</string>
+    <string name="toast_megacharizard">Mega Charizard</string>
+
+    <string name="neutral_button">OK</string>
+
+    <!--    alert-->
+    <string name="alert_misdreavus">What makes it happy is imitating the voices of weeping people and scaring everyone. It doesn\'t deal well with folks who aren\'t easily frightened.</string>
+    <string name="alert_tittle_misdreavus">Misdreavus</string>
+    <string name="alert_mismagius">Feared for its wrath and the curses it spreads, this Pokémon will also, on a whim, cast spells that help people.</string>
+    <string name="alert_tittle_Mismagius">Mismagius</string>
+    <string name="alert_gastly">Poisonous gas comprises 95% of its body. It\'s said that the remaining 5% is made up of the souls of those who died from the gas.</string>
+    <string name="alert_tittle_gastly">Gastly</string>
+    <string name="alert_haunter">It\'s dangerous to go outside alone on nights when you\'re feeling sad. Haunter will catch you, and you won\'t be able to go back home.</string>
+    <string name="alert_tittle_haunter">Haunter</string>
+    <string name="alert_gengar">Even your home isn\'t safe. Gengar will lurk in whatever dark corner of a room it can find and wait for its chance to catch its prey.</string>
+    <string name="alert_tittle_gengar">Gengar</string>
+    <string name="alert_abra">It can read others\' minds and will teleport away when danger approaches. You must clear your mind if you want to catch it.</string>
+    <string name="alert_tittle_abra">Abra</string>
+    <string name="alert_kadabra">It possesses strong mental capabilities, but its psychic powers are halved when it\'s not holding a silver spoon.</string>
+    <string name="alert_tittle_kadabra">Kadabra</string>
+    <string name="alert_alakazam">Alakazam uses its psychic powers to make the spoons it carries. Each spoon is an original that there\'s only one of in the whole world.</string>
+    <string name="alert_tittle_alakazam">Alakazam</string>
+    <string name="alert_charmander">The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.</string>
+    <string name="alert_tittle_charmander">Charmander</string>
+    <string name="alert_charmeleon">Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.</string>
+    <string name="alert_tittle_charmeleon">Charmeleon</string>
+    <string name="alert_charizard">Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.</string>
+    <string name="alert_tittle_charizard">Charizard</string>
+    <string name="alert_megacharizard">Mega Charizard Y is the Mega Evolution of Charizard and that evolves via the use of a Mega Stone, officially unveiled during the Pokémon Direct on the 4th September, 2013. During the airing of Pokémon Origins in Japan, it was revealed to be exclusive to Pokémon Y.</string>
+    <string name="alert_tittle_megacharizard">Mega Charizard</string>
+
+</resources>

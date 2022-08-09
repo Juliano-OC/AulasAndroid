@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">first_test</string>
+    <string name="button_calculator">Calculator</string>
+    <string name="button_random">Random</string>
+    <string name="button_about">About</string>
+    <string name="insane_duo">Insane DUO</string>
+    <string name="daninhoque">Daninhoque</string>
+    <string name="juliano">Juliano</string>
+    <string name="email_juliano">julianooliveiracorrea@gmail.com</string>
+    <string name="email_dani">daniokgamers@gmail.com</string>
+    <string name="string_add">Add result: </string>
+    <string name="string_subtraction">Subtraction result: </string>
+    <string name="string_division">Division result: </string>
+    <string name="string_multiplication">Multiplication result: </string>
+    <string name="string_value1">Value1: </string>
+    <string name="string_value2">Value2: </string>
+    <string name="button_calculate">Calculate</string>
+    <string name="type_value1">Type value1</string>
+    <string name="type_value2">Type value2</string>
+    <string name="spinner_add">Add</string>
+    <string name="spinner_subtract">Subtract</string>
+    <string name="spinner_divide">Divide</string>
+    <string name="spinner_multiply">Multiply</string>
+    <string name="spinner_all">All</string>
+    <string name="your_lucky_number_is">Your lucky number is: </string>
+
+    <string-array name="spinner_Calculator">
+        <item>Choose operation</item>
+        <item>Add</item>
+        <item>Subtract</item>
+        <item>Divide</item>
+        <item>Multiply</item>
+        <item>All</item>
+    </string-array>
+</resources>

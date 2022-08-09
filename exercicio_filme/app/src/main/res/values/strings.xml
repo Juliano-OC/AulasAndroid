@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">exercicio_filme</string>
+    <string name="movie_name">Movie name: </string>
+    <string name="movie_year">Movie year: </string>
+    <string name="movie_genre">Movie genre: </string>
+    <string name="movie_recommendation">Movie recommendation: </string>
+    <string name="type_movie_name">Type movie name</string>
+    <string name="choose_recommendation">Choose Recommendation</string>
+    <string name="genre_bad">Bad</string>
+    <string name="genre_good">Good</string>
+    <string name="genre_great">Great</string>
+    <string name="button_register">Register</string>
+
+    <string-array name="spinner_year">
+        <item>Choose The Year</item>
+        <item>2000</item>
+        <item>2010</item>
+        <item>2020</item>
+    </string-array>
+</resources>

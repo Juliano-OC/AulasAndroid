@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">exercicio_revisao</string>
+    <string name="button_dial">Dial</string>
+    <string name="button_student">Student</string>
+    <string name="button_square">Square</string>
+    <string name="button_type_phone">Type a phone</string>
+    <string name="button_add">Add</string>
+    <string name="type_student_name">Type student name</string>
+    <string name="grade_1">Grade 1</string>
+    <string name="grade_2">Grade 2</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="side_of_the_square">Side of the square</string>
+
+    <string-array name="spinner_area_perimeter">
+        <item>Choose</item>
+        <item>Area</item>
+        <item>Perimeter</item>
+        <item>Both</item>
+    </string-array>
+</resources>

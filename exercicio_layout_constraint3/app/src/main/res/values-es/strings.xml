@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">exercicio_layout_constraint3</string>
+        <string name="red">Rojo</string>
+        <string name="green">Verde</string>
+        <string name="blue">Azul</string>
+        <string name="yellow">Amarillo</string>
+        <string name="row_one">Línea Uno</string>
+        <string name="row_two">Línea Dos</string>
+        <string name="row_three">Línea Tres</string>
+        <string name="row_four">Línea Cuatro</string>
+</resources>

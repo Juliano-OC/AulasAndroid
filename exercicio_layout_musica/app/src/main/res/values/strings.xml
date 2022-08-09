@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">exercicio_layout_musica</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="cadastrar">CADASTRAR-ME</string>
+    <string name="esqueci_a_conta">ESQUECI A CONTA</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="relembre">Relembre-me</string>
+</resources>

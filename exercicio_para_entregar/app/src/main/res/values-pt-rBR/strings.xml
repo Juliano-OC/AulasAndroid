@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">exercicio_para_entregar</string>
+    <string name="button_int_number">Int para mês</string>
+    <string name="button_show">Mostrar</string>
+    <string name="m1">Janeiro</string>
+    <string name="m2">Fevereiro</string>
+    <string name="m3">Março</string>
+    <string name="m4">Abril</string>
+    <string name="m5">Maio</string>
+    <string name="m6">Junho</string>
+    <string name="m7">Julho</string>
+    <string name="m8">Agosto</string>
+    <string name="m9">Setembro</string>
+    <string name="m10">Outubro</string>
+    <string name="m11">Novembro</string>
+    <string name="m12">Dezembro</string>
+    <string name="error">Mês invalido</string>
+</resources>

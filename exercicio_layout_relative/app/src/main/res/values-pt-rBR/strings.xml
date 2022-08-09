@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">exercicio_layout_relative</string>
+
+    <string name="red">VERMELHO</string>
+    <string name="orange">LARANJA</string>
+    <string name="yellow">AMARELO</string>
+    <string name="green">VERDE</string>
+    <string name="blue">AZUL</string>
+    <string name="indigo">INDIGO</string>
+    <string name="pink">ROSA</string>
+
+</resources>

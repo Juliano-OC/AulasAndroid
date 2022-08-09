@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">hollowlator</string>
+    <string name="type_your_name">Type your name</string>
+    <string name="type_your_age">Type your age</string>
+    <string name="see_result">See result</string>
+    <string name="you_are">You are</string>
+    <string name="freaked_out">Freaked Out</string>
+    <string name="message_name">Name:</string>
+    <string name="message_age">Age:</string>
+    
+</resources>

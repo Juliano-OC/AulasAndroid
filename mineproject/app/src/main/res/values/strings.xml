@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mineproject</string>
+    <string name="button_play">Play</string>
+    <string name="button_calculator">Calculator</string>
+    <string name="button_sounds">Sounds</string>
+    <string name="button_what_level">What is your level?</string>
+    <string name="button_how_many_have_you_killed">How many mobs have you killed?</string>
+    <string name="button_calculate">Calculate your power</string>
+    <string name="your_power_is">Your power is: </string>
+</resources>

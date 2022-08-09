@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">shapetest</string>
+
+    <string name="hello">Hola!</string>
+    <string name="good_morning">Buenos dias!</string>
+    <string name="sorry">Perdone</string>
+    <string name="nice_to_meet_you">Encantada de conocerte</string>
+    <string name="how_old_are_you">¿Cuántos años tiene usted?</string>
+
+</resources>
